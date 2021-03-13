@@ -1,0 +1,34 @@
+header {
+    display: flow-root
+
+  flex-wrap: wrap;
+  background: var(--secondary);
+  padding: 30px 25px;
+  border-bottom: 5px solid var(--primary);
+}
+
+:root {
+  --primary: #31299e;
+  --secondary: #fbfbfb;
+  --tertiary: rgb(192, 246, 253);
+  --grey: #333;
+  font-size: 62.5%;
+}
+
+.page-content {
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 25px auto;
+    width: 95%;
+  }
+
+  .main-content {
+    font-size:x-large;
+  }
+
+  .btn2 {
+    color:#10185a;
+    font-size:x-large
+  }
