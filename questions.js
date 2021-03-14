@@ -3,11 +3,11 @@ let questions = [
     {
     numb: 1,
     question: "java script is a ...",
-    answer: "lightweight programming language",
+    answer: "light weight programming language",
     options: [
       "Hyper Text Preprocessor",
       "The same a java",
-      "lightweight programming language",
+      "light weight programming language",
       "an object-oriented programming language"
     ]
   },
@@ -16,10 +16,12 @@ let questions = [
     question: "What does DOM stand for?",
     answer: "Document Object Model",
     options: [
-      
-      "Descendent of Mulan",
+      "Descendent Of Mulan",
       "Document Object Model",
-      "Digital Object Memory"
+      "Digital Object Memory",
+      "Distructive Object Model"
+
+
     ]
   },
     {
@@ -55,4 +57,4 @@ let questions = [
       "eXamine Multiple Language"
     ]
   },
-  
+];
